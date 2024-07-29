@@ -1,7 +1,8 @@
 import React from "react";
+import { Pokemon } from "./Pokemon";
 
 function App() {
-  return <h1>Hello Pokemon</h1>;
+  return <Pokemon />;
 }
 
 export default App;
